@@ -4,8 +4,6 @@ Device Tree for Lenovo Vibe K6 Power (karate)
 The Lenovo K6 Power (codenamed _"karate"_) is a low-mid range smartphone from Lenovo.
 It was released in September 2016.
 
-Copyright 2017 - The LineageOS Project.
-
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | Octa-core 1.4 GHz Cortex-A53
@@ -22,6 +20,8 @@ Camera (front)  | 8 MP, Fixed focus
 Fingerprint | Fingerprint Cards (FPC) 1020
 Other Sensors | Gravity, Proximity, Light, Vibrator, Gyroscope, Accelerometer
 
-Copyright (C) 2017 The LineageOS Project.
-
 ![Lenovo Vibe K6 Power](http://cdn2.gsmarena.com/vv/pics/lenovo/lenovo-k6-power1.jpg "Lenovo Vibe K6 Power")
+
+RIP sensors
+RIP sensors
+RIP sensors
