@@ -750,7 +750,6 @@ vendor/lib/libsmemlog.so
 vendor/lib/libvqzip.so
 
 # Radio
--app/datastatusnotification/datastatusnotification.apk
 -app/embms/embms.apk
 -app/datastatusnotification/datastatusnotification.apk
 -app/fastdormancy/fastdormancy.apk

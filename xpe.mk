@@ -18,6 +18,8 @@ $(call inherit-product, device/lenovo/karate/full_karate.mk)
 
 # Inherit some common LineageOS stuff.
 $(call inherit-product, vendor/XPe/config/common_full_phone.mk)
+# for specific
+$(call inherit-product, vendor/lenovo/karate/karate-vendor.mk)
 
 # Set those variables here to overwrite the inherited values.
 PRODUCT_NAME := xpe_karate
