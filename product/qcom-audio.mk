@@ -37,7 +37,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/audio/audio_policy_configuration.xml:system/etc/audio_policy_configuration.xml \
         $(LOCAL_PATH)/audio/audio_policy_configuration_ce.xml:system/etc/audio_policy_configuration_ce.xml \
-        $(LOCAL_PATH)/audio/audio_policy_volumes.xml:system/etc/audio_policy_volumes.xml \
         $(LOCAL_PATH)/audio/audio_policy_volumes_ce.xml:system/etc/audio_policy_volumes_ce.xml \
         $(LOCAL_PATH)/audio/default_volume_tables.xml:system/etc/default_volume_tables.xml \
 	$(TOPDIR)frameworks/av/services/audiopolicy/config/a2dp_audio_policy_configuration.xml:/system/etc/a2dp_audio_policy_configuration.xml \
