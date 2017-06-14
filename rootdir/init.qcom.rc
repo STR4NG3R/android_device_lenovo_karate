@@ -242,6 +242,7 @@ on post-fs-data
     chmod 0775 /persist/sensors
     chmod 0664 /persist/sensors/sensors_settings
     chown system root /persist/sensors/sensors_settings
+    mkdir /data/misc/sensors 775 system root
 
     mkdir /data/misc/sensors
     chmod 0775 /data/misc/sensors
