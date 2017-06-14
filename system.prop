@@ -69,6 +69,10 @@ vidc.enc.disable.pq=true
 
 # CNE
 persist.cne.feature=1
+persist.cne.logging.qxdm=3974
+persist.cne.rat.wlan.chip.oem=WCN
+persist.dpm.feature=0
+persist.sys.cnd.iwlan=1
 
 # Coresight
 persist.debug.coresight.config=stm-events
@@ -152,6 +156,7 @@ persist.radio.RATE_ADAPT_ENABLE=1
 persist.radio.VT_ENABLE=1
 persist.radio.VT_HYBRID_ENABLE=1
 persist.radio.VT_USE_MDM_TIME=0
+persist.radio.msgtunnel.start=true
 persist.ims.disableADBLogs=2
 persist.ims.disableDebugLogs=0
 persist.ims.disableIMSLogs=0
